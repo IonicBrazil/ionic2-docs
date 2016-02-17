@@ -1,0 +1,42 @@
+---
+seo:
+  title: API Key Permissions
+  description:
+  keywords: Web API v3, API, API Key, permissions, authentication
+title: API Key Permissions
+weight: 0
+layout: page
+navigation:
+  show: true
+---
+FORMAT: 1A
+
+# MAKO API Permissions
+Permissions resource
+
+# Group Permissions
+Related resources of the **Permissions API**
+
+## Available Scopes [/v3/scopes]
+
+### List all available scopes for a user [GET]
+This endpoint will return a list of scopes for which that user has access.
+
++ Response 200 (application/json)
+
+    + Body
+
+            ["mail.send", "alerts.create", "alerts.read"]
+
+
++ Response 401
+
+      + Body
+
+            {
+              "errors":[
+                {
+                  "field":null,
+                  "message":"authorization required"}
+              ]
+            }
