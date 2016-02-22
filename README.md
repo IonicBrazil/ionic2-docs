@@ -63,7 +63,7 @@
 
 ## Contribuindo com a tradução  
 
-[Aqui](#) você pode visualizar o nosso guia de contribuição.  
+[Aqui](https://github.com/IonicBrazil/ionic2-docs/blob/master/CONTRIBUTING.md) você pode visualizar o nosso guia de contribuição.  
 
 Além disso, confira nosso [glossário](#) para termos técnicos em inglês e suas traduções PT-BR.
 
