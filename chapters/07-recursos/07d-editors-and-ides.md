@@ -1,6 +1,6 @@
 # Editores e IDEs
 
-Com o Ionic 2 compilado com base em ES6 e TypeScript, é importante que seu editor ou IDE tenha suporte para estas novas linguages. A seguir você encontra uma lista de editores e IDEs que nós acreditamos que te darão um suporte mais eficiente.
+Com o Ionic 2 compilado com base em ES6 e TypeScript, é importante que seu editor ou IDE tenha suporte para estas novas linguagens. A seguir você encontra uma lista de editores e IDEs que nós acreditamos que te darão um suporte mais eficiente.
 
 ## Visual Studio Code
 VS Code é um novo editor que vem com suporte para a sintaxe do ES6, assim como suporte para TypeScript. Ele irá solicitar aos usuários para incluir os arquivos de definição do TypeScript e fará download dos mesmos do [Definitely Typed](http://definitelytyped.org/). O Visual Studio Code é grátis e funciona em OSX, Windows e Linux.
