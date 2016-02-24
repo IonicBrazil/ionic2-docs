@@ -49,7 +49,7 @@
 4.8 `serve`  
 4.9 `start`  
 4.10 `v2`  
-5. FAQ  
+5. [FAQ](chapters/05-faq/01-faq.md)  
 6. API  
 7. Recursos > Resources  
 7.1 > Developer Tips  
