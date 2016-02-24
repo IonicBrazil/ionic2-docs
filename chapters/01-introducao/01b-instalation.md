@@ -1,15 +1,15 @@
 # 1.2 Instalando Ionic
  
-Como Ionic 1, aplicações Ionic 2 podem ser rapidamente criadas a partir da Ionic CLI ou ferramenta GUI ou construídas e testadas diretamente no navegador.
+Como no Ionic 1, aplicações Ionic 2 podem ser rapidamente criadas a partir da Ionic CLI ou ferramenta GUI ou construídas e testadas diretamente no navegador.
  
-Para instalar o SDK Ionic e criar projetos Ionic 2, você precisará instalar a versão beta mais recente:
+Para instalar o SDK do Ionic e criar projetos Ionic 2, você precisará instalar a versão beta mais recente:
 ```
 $ npm install -g ionic@beta
 ```    
 
-Não familiarizado com NPM? Saiba mais sobre ele e quais pacotes usamos [aqui](../07-recursos/07e-using-npm.md) 
+Não está familiarizado com NPM? Saiba mais sobre ele e quais pacotes usamos [aqui](../07-recursos/07e-using-npm.md) 
  
-Preocupado com seus projetos ionic V1? Não se preocupe! A versão beta tem todas as funcionalidades para trabalhar com ambos projetos V1 e projetos V2.
+Preocupado com seus projetos Ionic V1? Não se preocupe! A versão beta tem todas as funcionalidades para trabalhar com ambos projetos V1 e projetos V2.
 
 Uma vez feito isso, crie seu primeiro aplicativo Ionic:
 ```
@@ -24,32 +24,32 @@ $ ionic serve
 
 Você pode brincar com ele diretamente no navegador!
 
-## Construindo para um dispositivo
+## Desenvolvendo para um dispositivo
 
-Depois de ter instalado Ionic, você pode construir seu aplicativo para um dispositivo físico. Se você não tem um dispositivo físico na mão, você ainda pode construir para um emulador de dispositivo. Confira os docs simulador iOS se você estiver em um Mac, ou os docs Genymotion se você estiver à procura para emular um dispositivo Android. Você também vai precisar de Cordova para executar seu aplicativo em um dispositivo nativo. Para instalar Cordova, execute:
+Depois de ter instalado o Ionic, você pode desenvolver seu aplicativo para um dispositivo físico. Se você não tem um dispositivo físico na mão, você ainda pode desenvolver para um emulador de dispositivo. Confira os docs simulador iOS se você estiver em um Mac, ou os docs Genymotion se você estiver à procura para emular um dispositivo Android. Você também vai precisar de Cordova para executar seu aplicativo em um dispositivo nativo. Para instalar o Cordova, execute:
 ```
 $ sudo npm install -g cordova
 ```
 
 Depois que você tiver instalado Cordova e um dispositivo ou emulador pronto para iniciar, você pode seguir em frente e começar a construir sua app!
 
-## Construindo para iOS
+## Desenvolvendo para iOS
 
-Para construir para iOS, precisamos adicionar o módulo de plataforma iOS para Cordova:
+Para desenvolver para iOS, precisamos adicionar o módulo de plataforma iOS para Cordova:
 ```
 $ ionic platform add ios
 ```
 
-Em seguida, você precisa instalar o [Xcode](../../glossario.md). Xcode permite que você construa e compile para um dispositivo de destino executando o iOS.
+Em seguida, você precisa instalar o [Xcode](../../glossario.md). O Xcode permite que você construa e compile para um dispositivo de destino executando o iOS.
 
 De lá, você deve ser capaz de executar o emulador iOS usando o seguinte comando:
 ```
 $ ionic emulate ios
 ```
 
-## Construindo para Android
+## Desenvolvendo para Android
 
-Para construir para o Android, será necessário você adicionar o módulo da plataforma Android para Cordova:
+Para desenvolver para o Android, será necessário você adicionar o módulo da plataforma Android para Cordova:
 ```
 $ ionic platform add android
 ```
