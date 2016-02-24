@@ -57,7 +57,7 @@ class MyDirective {
 }
 ```
 
-- Adicionar provedores para cada componente quando na verdade você deseja ter a mesma instância de provedor injetada em todos (por exemplo serviços).  Para uma classe ser injetável ela apenas precisa estar no array de `providers` do componente ou qualquer componente pai (por exemplo `@App`), mas não em ambos.  Colocá-la tanto no componente que tem aquele provedor injetado quanto no componente-pai ou acima na hierarquia criará duas instâncias separadas do provedor. O exemplo abaixo demonstra esse problema:
+- Adicionar provedores (providers) para cada componente quando na verdade você deseja ter a mesma instância de provedor injetada em todos (por exemplo serviços).  Para uma classe ser injetável ela apenas precisa estar no array de `providers` do componente ou qualquer componente pai (por exemplo `@App`), mas não em ambos.  Colocá-la tanto no componente que tem aquele provedor injetado quanto no componente-pai ou acima na hierarquia criará duas instâncias separadas do provedor. O exemplo abaixo demonstra esse problema:
 
 ```ts
 let id = 0;
