@@ -25,7 +25,7 @@ Quando for traduzido para CSS, o resultado é o seguinte:
   height: 40px;
 }
 ```
-Isso é extremamente útil se você decidir posteriormente mudar o valor de ```$control-height``` que está sendo usado por múltiplos seletores. Em vez de revisar todo o seu código para encontrar os lugares de mudar esse valor, bastará você atualizar a variável ```$control-height```.
+Isso é extremamente útil se você decidir posteriormente mudar o valor de ```$control-height``` que está sendo usado por múltiplos seletores. Em vez de revisar todo o seu código para encontrar os lugares para mudar esse valor, bastará você atualizar a variável ```$control-height```.
 
 Variáveis Sass andam de mãos dadas com o Ionic. Com alguns frameworks CSS, você tem que criar um novo estilo e substituir os estilos do framework para alterar a aparência do seu aplicativo. Com o Ionic, você pode modificar o Sass diretamente, de modo que o arquivo CSS que é gerado tem a personalização que você deseja.
 

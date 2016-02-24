@@ -15,9 +15,9 @@ Você pode alterar o modelo que é atribuído na configuração do seu aplicativ
 Sobreescrevendo os modelos de estilos 
 ---------------------------------
 
-Cada componente Ionic tem até três folhas de estilo utilizadas para estilizá-lo. Por exemplo, o componente de abas tem uma folha de estilo única que consiste de estilos compartilhados entre todos os modelos, uma folha de estilo para o Material que contém os estilos para o modelo ```md```, e uma folha de estilo do iOS para, você adivinhou, o modelo do ```ios```.Nem todos os componentes estão decorados de forma diferente para cada modelo, assim alguns deles somente terão a folha de estilo única, ou a folha de estilo única e uma dos modelos.
+Cada componente Ionic tem até três folhas de estilo utilizadas para estilizá-lo. Por exemplo, o componente de abas tem uma folha de estilo única que consiste de estilos compartilhados entre todos os modelos, uma folha de estilo para o Material que contém os estilos para o modelo ```md```, e uma folha de estilo do iOS para, você adivinhou, o modelo do ```ios```. Nem todos os componentes estão decorados de forma diferente para cada modelo, assim alguns deles somente terão a folha de estilo única, ou a folha de estilo única e uma dos modelos.
 
-É possível utilizar a classe que é aplicada ao *body* para substituir as propriedades específicas em um modelo de componentes. Por exemplo, se você queria substituir todos os botões do modelo do Material Design (MD) para que tenham texto com todas as letras maiúsculas:
+É possível utilizar a classe que é aplicada ao *body* para substituir as propriedades específicas em um modelo de componentes. Por exemplo, se você queria substituir todos os botões do modelo do Material Design (md) para que tenham texto com todas as letras maiúsculas:
 
 ```css
 .md button {

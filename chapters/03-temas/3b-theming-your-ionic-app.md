@@ -4,7 +4,7 @@ Tematizando aplicativos Ionic
 Tematizando seu aplicativo Ionic
 -----------------------------
 
-O suporte a temas está incorporado em seus aplicativos Ionic. Para alterar o tema, basta ajustar os valores de ```$colors``` no arquivo ```app/theme/app.variables.scss```.
+O suporte a temas já está incorporado em seus aplicativos Ionic. Para alterar o tema, basta ajustar os valores de ```$colors``` no arquivo ```app/theme/app.variables.scss```.
 
 ```scss
 $colors: (
@@ -31,7 +31,7 @@ $colors: (
 )
 ```
 
-Ionic torna as chaves de ```$colors``` disponíveis como propriedades de muitos componentes. Por exemplo, para usar nossa cor ```twitter``` adicione a chave como uma propriedade:
+O Ionic torna as chaves de ```$colors``` disponíveis como propriedades de muitos componentes. Por exemplo, para usar nossa cor ```twitter``` adicione a chave como uma propriedade:
 ```html
 <button twitter>I'm a button</button>
 ```
