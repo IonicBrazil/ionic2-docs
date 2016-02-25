@@ -20,6 +20,8 @@ Depois disso, é só você `forkar` o nosso repositório e escrever suas traduç
 Depois que tiver terminado suas traduções, você só precisa fazer um `pull request` para nosso repositório.
 Em relação aos `pull requests`, pedimos que sejam enviados da forma mais simples possível. O que queremos dizer é que seja enviando tópico por tópico. Dessa forma, tornamos o processo de revisão e correção mais dinâmico e mais rápdido possível.
 
+Não esqueçam de linkar no [README](https://github.com/IonicBrazil/ionic2-docs/blob/master/README.md) principal e também no README de cada capítulo, os arquivos dos tópicos que você enviar.
+
 ### Revisão 
 Em seguida, um de nossos contribuidores vai analisar todo o texto para ver se está tudo correto. Passando dessa parte, é feito um `merge` da sua tradução.
 
