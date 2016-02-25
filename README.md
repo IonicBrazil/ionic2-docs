@@ -33,11 +33,11 @@
 2.21 > Toggle  
 2.22 > Toolbar  
 3. Temas  
-3.1 Introdução  
-3.2 > Theming your App  
-3.2 Variáveis SASS  
-3.2 > Platform Styles  
-3.2 > Overriding Ionic Variables  
+3.1 [Introdução](chapters/03-temas/3a-intro.md)  
+3.2 [Tematizando seu aplicativo](chapters/03-temas/3b-theming-your-ionic-app.md)  
+3.3 [Variáveis SASS](chapters/03-temas/3c-sass-variables.md)  
+3.4 [Estilos das plataformas](chapters/03-temas/3d-platform-vars.md)  
+3.5 [Sobreescrevendo variáveis do Ionic](chapters/03-temas/3e-overriding-ionic-variables.md)  
 4. CLI  
 4.1 Introdução  
 4.2 `build`  
