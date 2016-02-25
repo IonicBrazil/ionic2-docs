@@ -8,7 +8,7 @@ Veja este exemplo V1.
 
 V1
 
-```
+```ts
 .config(function($stateProvider){
   $stateProvider
   .state('main', {
@@ -25,7 +25,7 @@ V1
 
 Você pode escrever isso em V2 como este:
 
-```
+```ts
 @Page({
   templateUrl:'main/main.html'
 })
@@ -48,7 +48,7 @@ ControllerAs Syntax é um recurso do Angular 1.x aonde ao invés de você ligar 
 
 _index.html_
 
-```
+```ts
 <ion-content ng-controller="MainCtrl">
   <ion-item>
     {{data.text}}
@@ -58,7 +58,7 @@ _index.html_
 
 _app.js_
 
-```
+```ts
 .controller('MainCtrl', function($scope){
   $scope.data ={
     text: 'Hello World'
@@ -70,7 +70,7 @@ Para converter isso em sintaxe **controllerAs** você só tem que mudar algumas 
 
 _index.html_
 
-```
+```ts
 <ion-content ng-controller="MainCtrl as main">
   <ion-item>
     {{data.text}}
@@ -80,7 +80,7 @@ _index.html_
 
 _app.js_
 
-```
+```ts
 .controller('MainCtrl', function(){
   this.data ={
     text: 'Hello World'
@@ -94,7 +94,7 @@ TypeScript é um super conjunto de JavaScript que fornece Classes ES6 e tipo de 
 
 _app.js_
 
-```
+```ts
 .controller('MainCtrl', function(){
   this.data ={
     text: 'Hello World'
@@ -104,7 +104,7 @@ _app.js_
 
 _app.ts_
 
-```
+```ts
 export class MainCtrl{
   constructor(){
     this.data ={
