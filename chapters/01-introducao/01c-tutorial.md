@@ -1,6 +1,6 @@
 # 1.3 Ionic 2 Tutorial
 
-Agora que você tem o [Ionic instalado juntamente com suas dependência](01b-instalation.md), você pode desenvolver seu primeiro aplicativo! Esta seção irá guiá-lo através do processo de iniciar uma nova aplicação, adicionando páginas, navegação entre as páginas, e muito mais. Vamos começar!
+Agora que você tem o [Ionic instalado juntamente com suas dependencia](01b-instalation.md), você pode desenvolver seu primeiro aplicativo! Esta seção irá guiá-lo através do processo de iniciar uma nova aplicação, adicionando páginas, navegação entre as páginas, e muito mais. Vamos começar!
 
 ## Iniciano um novo aplicativo Ionic 2
 
@@ -9,7 +9,7 @@ Vanos desenvolver um aplicativo! Use o comando **start** para inicializar um nov
 $ ionic start MyIonic2Project tutorial --v2
 ```
 
-Isso vai baixar o Ionic 2, instalar o [módulos npm](../../glossario.md) para a aplicação, e obter o [Cordova](../../glossario.md) configurado e pronto para utilizar.
+Isso vai baixar o Ionic 2, instalar os [módulos npm](../../glossario.md) para a aplicação, e obter o [Cordova](../../glossario.md) configurado e pronto para utilizar.
 
 Quer usar o TypeScript em vez disso? Passe o sinalizador **--ts** e obtenha uma configuração de projeto de TypeScript em seu lugar.
 
