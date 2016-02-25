@@ -40,7 +40,7 @@ Outras mudanças, como mudanças de navegação, são muito diferentes, mas por 
 
 # Migrando do Angular 1
 
-Enquanto Angular 2 requer aplicativos para ser atualizado para a mudança de sintaxe, os desenvolvedores podem ser pró-ativo e certificar se o seu aplicativo é atualizável, seguindo as melhores práticas e trabalhar com guia Angular Style de John Papa ou guia Angular Style de Todd Motto. Ambos irão fornecer-lhe os passos necessários para preparar seu código para a migração.
+Enquanto Angular 2 requer aplicativos para ser atualizado para a mudança de sintaxe, os desenvolvedores podem ser pró-ativos e certificar se o seu aplicativo é atualizável, seguindo as melhores práticas e trabalhar com guia Angular Style de John Papa ou guia Angular Style de Todd Motto. Ambos irão fornecer-lhe os passos necessários para preparar seu código para a migração.
 
 ## ControllerAs Syntax
 
