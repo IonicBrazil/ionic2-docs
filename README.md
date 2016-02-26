@@ -61,7 +61,7 @@
 7.1 Developer Tips  
 7.2 Glossário  
 7.3 Ionicons  
-7.4 [Editores e IDEs](chapters/07-recursos/07d-editors-and-ides.md)
+7.4 [Editores e IDEs](chapters/07-recursos/07d-editors-and-ides.md)   
 7.5 Usando NPM  
 
 - *linkar em cada capítulo o caminho correto para o arquivo.md*
