@@ -10,7 +10,7 @@
 1.4 [Conceitos de Migração](chapters/01-introducao/01d-migration.md)  
 1.5 [Conceitos](chapters/01-introducao/01e-core-concepts.md)
 
-1. Componentes  
+2. Componentes  
 2.1 Overview  
 2.2 Action Sheets  
 2.3 Alerts  
