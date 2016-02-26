@@ -9,7 +9,6 @@
 1.3 [Tutorial](chapters/01-introducao/01c-tutorial.md)  
 1.4 [Conceitos de Migração](chapters/01-introducao/01d-migration.md)  
 1.5 [Conceitos](chapters/01-introducao/01e-core-concepts.md)
-
 2. Componentes  
 2.1 Overview  
 2.2 Action Sheets  
@@ -40,8 +39,8 @@
 3.4 [Estilos das plataformas](chapters/03-temas/3d-platform-vars.md)  
 3.5 [Sobreescrevendo variáveis do Ionic](chapters/03-temas/3e-overriding-ionic-variables.md)  
 4. CLI  
-4.1 Introdução  
-4.2 `build`  
+4.1 [Introdução](chapters/04-cli/4a-intro.md)
+4.2 [`build`](chapters/04-cli/4b-build.md)  
 4.3 `emulate`  
 4.4 `generate`  
 4.5 `info`  
@@ -56,7 +55,7 @@
 7.1 > Developer Tips  
 7.2 Glossário  
 7.3 > Ionicons  
-7.4 [Editores e IDEs] (chapters/07-recursos/07d-editors-and-ides.md)
+7.4 [Editores e IDEs](chapters/07-recursos/07d-editors-and-ides.md)
 7.5 Usando NPM  
 
 - *linkar em cada capítulo o caminho correto para o arquivo.md*
