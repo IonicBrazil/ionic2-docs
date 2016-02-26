@@ -18,7 +18,7 @@ Este conteúdo do site e documentação (encontrado no repo [ionic-site](https:/
 
 ## O que é Ionic CLI?
 
-O [CLI](ionic2-docs/glossario.md), ou interface de linha de comando, é uma ferramenta que fornece uma série de comandos úteis para desenvolvedores Ionic. Além de instalar e atualizar Ionic, o CLI vem com um  servidor de desenvolvimento, construção e ferramentas de depuração, e muito mais. Se você estiver usando a Plataforma Ionic, o CLI pode ser usado para exportar o código e até mesmo interagir com a sua conta por meio de programação.
+O [CLI](../../glossario.md), ou interface de linha de comando, é uma ferramenta que fornece uma série de comandos úteis para desenvolvedores Ionic. Além de instalar e atualizar Ionic, o CLI vem com um  servidor de desenvolvimento, construção e ferramentas de depuração, e muito mais. Se você estiver usando a Plataforma Ionic, o CLI pode ser usado para exportar o código e até mesmo interagir com a sua conta por meio de programação.
 
 ## O que são componentes?
 
