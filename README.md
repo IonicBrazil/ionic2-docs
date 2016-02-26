@@ -42,7 +42,7 @@
 3.5 [Sobreescrevendo variáveis do Ionic](chapters/03-temas/3e-overriding-ionic-variables.md) 
 
 4. CLI  
-4.1 [Introdução](chapters/04-cli/4a-intro.md)
+4.1 [Introdução](chapters/04-cli/4a-intro.md) 
 4.2 [`build`](chapters/04-cli/4b-build.md)  
 4.3 `emulate`  
 4.4 `generate`  
