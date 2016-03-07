@@ -11,7 +11,7 @@
 1.5 [Conceitos](chapters/01-introducao/01e-core-concepts.md)
 
 2. Componentes  
-2.1 > Overview  
+2.1 [Overview](chapters/02-componentes/2a-orverview.md)
 2.2 > Action Sheets  
 2.3 > Alerts  
 2.4 > Badges  
