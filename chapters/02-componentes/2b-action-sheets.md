@@ -10,29 +10,43 @@ Quando é acionado, o resto da página escurece para dar mais foco nas opções 
 ###Uso Basico
 
 
-	presentActionSheet() {
-    let actionSheet = ActionSheet.create({
-    title: 'Modify your album',
-    buttons: [
-      {
-        text: 'Destructive',
-        style: 'destructive',
-        handler: () => {
-          console.log('Destructive clicked');
-        }
-      },{
-        text: 'Archive',
-        handler: () => {
-          console.log('Archive clicked');
-        }
-      },{
-        text: 'Cancel',
-        style: 'cancel',
-        handler: () => {
-          console.log('Cancel clicked');
-        }
-      }
-    ]
-    });
+    presentActionSheet() {
+	
+	    let actionSheet = ActionSheet.create({
+	    
+	    title: 'Modify your album',
+	    
+	    buttons: [
+	      {
+	        text: 'Destructive',
+	        
+	        style: 'destructive',
+	        
+	        handler: () => {
+	        
+	          console.log('Destructive clicked');
+	          
+	        }
+	      },{
+	        text: 'Archive',
+	        
+	        handler: () => {
+	        
+	          console.log('Archive clicked');
+	          
+	        }
+	      },{
+	        text: 'Cancel',
+	        
+	        style: 'cancel',
+	        
+	        handler: () => {
+	        
+	          console.log('Cancel clicked');
+	          
+	        }
+	      }
+	    ]
+	    });
     this.nav.present(actionSheet);
     }
