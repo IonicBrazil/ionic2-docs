@@ -1,5 +1,5 @@
 2. Componentes  
-2.1  [Overview](2a-orverview.md)  
+2.1 > Overview  
 2.2 > Action Sheets  
 2.3 > Alerts  
 2.4 > Badges  
