@@ -7,7 +7,7 @@ A action Sheet aparece sempre acima de quaisquer outros componentes na página, 
 Quando é acionado, o resto da página escurece para dar mais foco nas opções do Action Sheet.
 
 
-###Uso Basico
+### Uso Básico
 
 
     presentActionSheet() {
