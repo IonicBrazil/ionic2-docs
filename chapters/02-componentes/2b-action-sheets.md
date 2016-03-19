@@ -3,7 +3,7 @@ Action Sheets (Folhas de Ação)
 
 Action Sheets, deslizam para cima a partir da borda inferior da tela do dispositivo, e exibe um conjunto de opções com a capacidade de confirmar ou cancelar uma ação. Action Sheets podem por vezes, ser usado como uma alternativa para os menus, no entanto, eles não devem ser utilizados para a navegação.
 	   
-O action Sheet aparece sempre acima de quaisquer outros componentes na página, e deve ser descartado se quer interagir com o conteúdo que fica por baixo.
+O Action Sheet aparece sempre acima de quaisquer outros componentes na página, e deve ser descartado se quer interagir com o conteúdo que fica por baixo.
 Quando é acionado, o resto da página escurece para dar mais foco nas opções do Action Sheet.
 
 
