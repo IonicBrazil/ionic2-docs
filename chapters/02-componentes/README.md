@@ -20,4 +20,4 @@
 2.19 > Slides  
 2.20 > Tabs  
 2.21 > Toggle  
-2.22 > Toolbar 
+2.22 > Toolbar   
