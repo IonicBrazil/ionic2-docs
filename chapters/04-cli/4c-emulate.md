@@ -19,5 +19,5 @@
 O comando **emulate** irá fazer deploy de sua aplicação para dispositivos das plataformas específicas. Você também pode rodar em **live reload¹** especificando ao emulador através da flag --livereload. A funcionalidade de **live reload¹** é similar ao do comando **ionic server**, mas em vez de desenvolver e debugar um aplicativo usando o navegador padrão, o aplicativo hibrido compilado está observando todas as mudanças aos arquvios e recarregando o aplicativo quando necessario.
 
 
-** Notas de tradução: **  
+**Notas de tradução:**  
 ¹Live reload: As mudanças de seus arquivos serão refletidas em tempo real.
