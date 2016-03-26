@@ -1,7 +1,7 @@
 4. CLI  
 4.1 [Introdução](./4a-intro.md)  
 4.2 [`build`](./4b-build.md)  
-4.3 [`build`](./4c-emulate.md)
+4.3 [`emulate`](./4c-emulate.md)  
 4.4 `generate`  
 4.5 `info`  
 4.6 `platform`  
