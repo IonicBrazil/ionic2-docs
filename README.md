@@ -70,8 +70,8 @@
 4.5 [Sobreescrevendo variáveis do Ionic](chapters/04-temas/4e-overriding-ionic-variables.md) 
 
 ####5. CLI  
-5.1 [Introdução](chapters/04-cli/4a-intro.md)   
-5.2 [`build`](chapters/04-cli/4b-build.md)  
+5.1 [Introdução](chapters/05-cli/5a-intro.md)   
+5.2 [`build`](chapters/05-cli/5b-build.md)  
 5.3 `emulate`  
 5.4 `generate`  
 5.5 `info`  
@@ -81,16 +81,16 @@
 5.9 `start`  
 5.10 `v2` 
 
-####5. [FAQ](chapters/05-faq/01-faq.md) 
+####6. [FAQ](chapters/06-faq/01-faq.md) 
 
 ####6. API 
 
-####7. Recursos > Resources  
-7.1 Developer Tips  
-7.2 Glossário  
-7.3 Ionicons  
-7.4 [Editores e IDEs](chapters/07-recursos/07d-editors-and-ides.md)   
-7.5 Usando NPM  
+####8. Recursos > Resources  
+8.1 Developer Tips  
+8.2 Glossário  
+8.3 Ionicons  
+8.4 [Editores e IDEs](chapters/08-recursos/08d-editors-and-ides.md)   
+8.5 Usando NPM  
 
 - *linkar em cada capítulo o caminho correto para o arquivo.md*
 
