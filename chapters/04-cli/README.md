@@ -2,7 +2,7 @@
 4.1 [Introdução](./4a-intro.md)  
 4.2 [`build`](./4b-build.md)  
 4.3 [`emulate`](./4c-emulate.md)  
-4.4 `generate`  
+4.4 [`generate`](./4d-generate.md)   
 4.5 `info`  
 4.6 `platform`  
 4.7 `run`  
