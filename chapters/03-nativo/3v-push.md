@@ -1,6 +1,6 @@
 Ionic Push é um plugin para lidar com notificações nativas com uma única API, **sem depender de qualquer outro plugin**.
 
-####Adicionando plugin  
+###Adicionando plugin  
 `ionic plugin add phonegap-plugin-push`
 
 Repositório: https://github.com/phonegap/phonegap-plugin-push
@@ -11,7 +11,7 @@ Registrar e receber notificações
 
 Para usuários de TypeScript, veja: [Push Plugin documentação sobre TypeScript](https://github.com/phonegap/phonegap-plugin-push/blob/master/docs/TYPESCRIPT.md)
 
-###Métodos Estáticos  
+####Métodos Estáticos  
 **init(options)** 
 
 Inicialize o plugin no modo nativo
@@ -31,14 +31,14 @@ var push = Push.init({
 ```
 Parâmetro | Tipo | Detalhe
 --- | --- | --- 
-options | **PushOptions** | [Opcões de push](https://github.com/phonegap/phonegap-plugin-push/blob/master/docs/API.md#parameters)
+options | **PushOptions** | [Opcões de push (inglês)](https://github.com/phonegap/phonegap-plugin-push/blob/master/docs/API.md#parameters)
 
-##Retornos  
+####Retornos  
 PushNotification retorna um novo objeto [PushNotification](https://github.com/phonegap/phonegap-plugin-push/blob/master/docs/API.md#pushonevent-callback)
 
 `hasPermission()`  
 Checa se as permissões para notificações push estão de acordo.
 
-##Retorno  
-Retorna uma **promessa* que devolve um objeto `isEnabled`, um booleano que indica se a parmissão foi concedida.
+####Retorno  
+Retorna uma **promessa** que devolve um objeto `isEnabled`, um booleano que indica se a parmissão foi concedida.
 
