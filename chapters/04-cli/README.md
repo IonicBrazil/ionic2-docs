@@ -4,7 +4,7 @@
 4.3 [`emulate`](./4c-emulate.md)  
 4.4 [`generate`](./4d-generate.md)   
 4.5 [`info`](./4e-info.md)  
-4.6 `platform`  
+4.6 [`platform`](./4e-platform.md)  
 4.7 `run`  
 4.8 `serve`  
 4.9 `start`  
