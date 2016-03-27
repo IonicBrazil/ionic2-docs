@@ -1,5 +1,5 @@
 # platform #
-
+ 
 | Comando | Descrição |
 |---------|-----------|
 | ionic platform | Adicione plataformas de destino para build da aplicação Ionic |
