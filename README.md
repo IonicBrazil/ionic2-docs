@@ -34,24 +34,52 @@
 2.21 Toggle  
 2.22 Toolbar 
 
-####3. Temas  
-3.1 [Introdução](chapters/03-temas/3a-intro.md)  
-3.2 [Tematizando seu aplicativo](chapters/03-temas/3b-theming-your-ionic-app.md)  
-3.3 [Variáveis SASS](chapters/03-temas/3c-sass-variables.md)  
-3.4 [Estilos das plataformas](chapters/03-temas/3d-platform-vars.md)  
-3.5 [Sobreescrevendo variáveis do Ionic](chapters/03-temas/3e-overriding-ionic-variables.md) 
+####3. Nativo
+3.1 ActionSheet
+3.2 AppRate
+3.3 AppVersion
+3.4 Badge
+3.5 BarCodeScanner
+3.6 BLE
+3.7 Calendar
+3.8 Camera
+3.9 Clipboard
+3.10 Contats
+3.11 Cordova
+3.12 CordovaProperty
+3.13 cordovaWarn
+3.14 DatePicker
+3.15 Device
+3.16 Facebook
+3.17 Geolocation
+3.18 getPlugin
+3.19 isInstalled
+3.20 Plugin
+3.21 pluginWarn
+3.22 [push](chapters/03-nativo/3v-push.md)
+3.23 StatusBar
+3.24 Toast
+3.25 TouchID
+3.26 wrap
 
-####4. CLI  
-4.1 [Introdução](chapters/04-cli/4a-intro.md)   
-4.2 [`build`](chapters/04-cli/4b-build.md)  
-4.3 `emulate`  
-4.4 `generate`  
-4.5 `info`  
-4.6 `platform`  
-4.7 `run`  
-4.8 `serve`  
-4.9 `start`  
-4.10 `v2` 
+####4. Temas  
+4.1 [Introdução](chapters/04-temas/4a-intro.md)  
+4.2 [Tematizando seu aplicativo](chapters/04-temas/4b-theming-your-ionic-app.md)  
+4.3 [Variáveis SASS](chapters/04-temas/4c-sass-variables.md)  
+4.4 [Estilos das plataformas](chapters/04-temas/4d-platform-vars.md)  
+4.5 [Sobreescrevendo variáveis do Ionic](chapters/04-temas/4e-overriding-ionic-variables.md) 
+
+####5. CLI  
+5.1 [Introdução](chapters/04-cli/4a-intro.md)   
+5.2 [`build`](chapters/04-cli/4b-build.md)  
+5.3 `emulate`  
+5.4 `generate`  
+5.5 `info`  
+5.6 `platform`  
+5.7 `run`  
+5.8 `serve`  
+5.9 `start`  
+5.10 `v2` 
 
 ####5. [FAQ](chapters/05-faq/01-faq.md) 
 
