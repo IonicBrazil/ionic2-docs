@@ -3,4 +3,4 @@
 7.2 Glossário  
 7.3 Ionicons  
 7.4 [Editores e IDEs](07d-editors-and-ides.md)  
-7.5 [Usando NPM](07e-using-npm.md) 
+7.5 [Usando NPM](07e-using-npm.md)
