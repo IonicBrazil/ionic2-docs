@@ -1,0 +1,11 @@
+5. CLI  
+5.1 [Introdução](./5a-intro.md)  
+5.2 [`build`](./5b-build.md)  
+5.3 [`emulate`](./5c-emulate.md)  
+5.4 [`generate`](./5d-generate.md)   
+5.5 [`info`](./5e-info.md)  
+5.6 [`platform`](./5f-platform.md)  
+5.7 `run`  
+5.8 `serve`  
+5.9 `start`  
+5.10 `v2`  
