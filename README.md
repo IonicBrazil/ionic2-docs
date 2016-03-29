@@ -75,7 +75,7 @@
 ####5. CLI  
 5.1 [Introdução](chapters/05-cli/5a-intro.md)   
 5.2 [`build`](chapters/05-cli/5b-build.md)  
-5.3 `emulate`  
+5.3 [`emulate`](chapters/05-cli/5c-emulate.md  
 5.4 `generate`  
 5.5 `info`  
 5.6 `platform`  
@@ -86,7 +86,7 @@
 
 ####6. [FAQ](chapters/06-faq/01-faq.md) 
 
-####6. API 
+####7. API 
 
 ####8. Recursos > Resources  
 8.1 Developer Tips  
