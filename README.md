@@ -3,6 +3,8 @@
 
 ## Capítulos  
 
+####0. Home(/chapters/00-home)
+
 ####1. Introdução 
 1.1 [Bem vindo](chapters/01-introducao/01a-welcome.md)   
 1.2 [Instalação](chapters/01-introducao/01b-instalation.md)   
