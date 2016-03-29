@@ -75,7 +75,7 @@
 ####5. CLI  
 5.1 [Introdução](chapters/05-cli/5a-intro.md)   
 5.2 [`build`](chapters/05-cli/5b-build.md)  
-5.3 [`emulate`](chapters/05-cli/5c-emulate.md)
+5.3 [`emulate`](chapters/05-cli/5c-emulate.md)  
 5.4 [`generate`](chapters/05-cli/5d-generate.md)  
 5.5 [`info`](chapters/05-cli/5e-info.md)  
 5.6 [`platform`](chapters/05-cli/5f-platform.md)  
