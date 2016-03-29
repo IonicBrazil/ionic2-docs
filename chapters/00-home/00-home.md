@@ -1,31 +1,31 @@
 # 0.0 IONIC DOCS
 
 
-[Começando](/docs/v2/getting-started)
+[Começando](/chapters/01-introducao/01a-welcome.md)
 
 Tudo que você precisa saber para começar com o Ionic.
 
 
 
-[Componentes de Interface](/docs/v2/components)
+[Componentes de Interface](/chapters/02-componentes)
 
 Uma análise compreensiva sobre os componentes de interface do ionic - tudo que você irá precisar.
 
 
 
-[API](/docs/v2/api)
+[API](/chapters/07-api)
 
 Explore nossa API para obter informações sobre métodos, propriedades e eventos.
 
 
 
-[Customização](/docs/v2/theming/)
+[Temas](/chapters/04-temas)
 
 Aprenda como facilmente customizar e modificar o desing de seus app's para se encaixar com sua marca.
 
 
 
-[Ionicons](/docs/v2/resources/ionicons/)
+[Ionicons](/chapters/08-recursos)
 
 Mais de 900 ícones com desing personalizado. Licença MIT &amp; prontos para usar com o Ionic.
 
