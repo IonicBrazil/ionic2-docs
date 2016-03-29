@@ -93,7 +93,7 @@
 8.2 Glossário  
 8.3 Ionicons  
 8.4 [Editores e IDEs](chapters/08-recursos/08d-editors-and-ides.md)   
-8.5 Usando NPM  
+8.5 [Usando NPM](chapters/08-recursos/08e-using-npm.md)  
 
 - *linkar em cada capítulo o caminho correto para o arquivo.md*
 
