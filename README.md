@@ -38,10 +38,10 @@
 2.22 Toolbar 
 
 ####3. Nativo
-3.1 [ActionSheet](3a-actionSheet.md)  
-3.2 [AppAvailability](3b-appAvailability.md)  
-3.3 [AppRate](3c-appRate.md)  
-3.4 [AppVersion](3d-appVersion.md)  
+3.1 [ActionSheet](chapters/03-nativo/3a-actionSheet.md)  
+3.2 [AppAvailability](chapters/03-nativo/3b-appAvailability.md)  
+3.3 [AppRate](chapters/03-nativo/3c-appRate.md)  
+3.4 [AppVersion](chapters/03-nativo/3d-appVersion.md)  
 3.5 Badge  
 3.6 BarCodeScanner  
 3.7 Base64ToGallery  
@@ -70,7 +70,7 @@
 3.30 LaunchNavigator  
 3.31 LocalNotifications  
 3.32 Network  
-3.33 [Push](3v-push.md)  
+3.33 [Push](chapters/03-nativo/3v-push.md)  
 3.34 SMS  
 3.35 SocialSharing  
 3.36 SpinnerDialog  
