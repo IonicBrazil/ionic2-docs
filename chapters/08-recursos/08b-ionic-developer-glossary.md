@@ -2,7 +2,7 @@
 
 ## Android SDK  
 
-O [Android SDK](http://developer.android.com/sdk/index.html) é um kit de desenvolvimento de softwares para desenvolvedores construam aplicações para a plataforma Google's Android. Ele inclui ferramentas para  construção (*building*), testes e depuração (*debugging*) de aplicativos Android.
+O [Android SDK](http://developer.android.com/sdk/index.html) é um kit de desenvolvimento de softwares para desenvolvedores construam aplicações para a plataforma Android, da Google. Ele inclui ferramentas para  construção (*building*), testes e depuração (*debugging*) de aplicativos Android.
 
 
 ## Anotações  
@@ -22,12 +22,12 @@ Autoprefixo é uma ferramenta que adiciona prefixos específicos nos códigos CS
 
 ## Browserify  
 
-[Browserify](http://browserify.org/) é um agrupador (*bundler*) de códigos, semelhante ao *webpack*, que vai analisar todo o código do seu projeto, e vai gerar (bundle) um único arquivo.
+[Browserify](http://browserify.org/) é um agrupador (*bundler*) de códigos, semelhante ao *webpack*, que vai analisar todo o código do seu projeto, e vai gerar um único arquivo (bundle).
 
 
 ## Agrupamento (Bundling)  
 
-Agrupamento é o processo de pegar as dependências do aplicativo (seus códigos escritos mais quaisquer módulos NPM instalados) e compilar isso tudo em um único arquivo.
+Agrupamento é o processo de escanear as dependências do aplicativo (seus códigos escritos mais quaisquer módulos NPM instalados) e compilar isso tudo em um único arquivo.
 
 
 ## CLI  
@@ -42,12 +42,12 @@ A CLI, ou interface de linha de comando, é uma interface baseada em texto para 
 
 ## Cordova  
 
-[Cordova](https://cordova.apache.org/) é uma saída para transformar códigos HTML/CSS/JS em um aplicativo nativo. Ele fornece a API do JavaScript para acessar recursos e funcionalidades nativas do dispositivo, como a camera ou acelerômetro. Cordova contém ferramentas necessárias de compilação para o empacotamento de aplicativos web para iOS, Android, e Windows Phone.
+[Cordova](https://cordova.apache.org/) é uma saída para transformar códigos HTML/CSS/JS em um aplicativo nativo. Ele fornece a API do JavaScript para acessar recursos e funcionalidades nativas do dispositivo, como a camera ou acelerômetro. O Cordova contém as ferramentas necessárias de compilação para o empacotamento de aplicativos web para iOS, Android, e Windows Phone.
 
 
 ## Decorators  
 
-*Decorators* são expressões que retornam uma função. Elas basicamente permitem que você pegue uma função ja existente e altere o seu comportamento. Com TypeScript, você também pode decorar classes e parâmetros. Quando você decorar uma classe, você estará enrolando e estendendo o comportamento de seu construtor. Em outras palavras, o *decorator* irá adicionar alguma funcionalidade quando o construtor for chamado, e irá retornar o construtor original. Quando você decorar um parâmetro, você estará enrolando o argumento que foi passado para esse parâmetro. Em outras palavras, o *decorator* irá adicionar funcionalidades quando um argumento é passado para o método, e em seguida, retornar o argumento original.
+*Decorators* são expressões que retornam uma função. Elas basicamente permitem que você pegue uma função ja existente e altere o seu comportamento. Com TypeScript, você também pode decorar classes e parâmetros. Quando você decorar uma classe, você estará encapsulando e estendendo o comportamento de seu construtor. Em outras palavras, o *decorator* irá adicionar alguma funcionalidade quando o construtor for chamado, e irá retornar o construtor original. Quando você decorar um parâmetro, você estará enrolando o argumento que foi passado para esse parâmetro. Em outras palavras, o *decorator* irá adicionar funcionalidades quando um argumento é passado para o método, e em seguida, retornar o argumento original.
 
 
 ## ES5  
@@ -57,7 +57,7 @@ ES5 refere-se ao EcmaScript 5ª Edição. Uma maneira simples de colocá-lo é q
 
 ## ES2015/ES6  
 
-ES2015/ES6 são dois nomes geralmente usados para a versão mais recente do JavaScript. Uma vasta gama de novas funcionalidades foram introduzidas nessa versão, incluindo classes, módulos, iteradores e *promises*. O projeto final da ES6 já foi aproviado, o que significa que os códigos ES6 podem ser interpretados diretamente pelo navegador. Para usas as funcionalidades ES6 atualmente, ferramentas como Babel e TypeScript tem que converter codes ES6 em ES5.
+ES2015/ES6 são dois nomes geralmente usados para a versão mais recente do JavaScript. Uma vasta gama de novas funcionalidades foram introduzidas nessa versão, incluindo classes, módulos, iteradores e *promises*. O projeto final da ES6 já foi aproviado, o que significa que os códigos ES6 podem ser interpretados diretamente pelo navegador. Para usas as funcionalidades ES6 atualmente, ferramentas como Babel e TypeScript tem que converter códigos ES6 em ES5.
 
 
 ## ES2016/ES7  
@@ -94,7 +94,7 @@ ES6 traz o conceito de módulos para o javascript. Com módulos, as coisas não 
 
 ## Karma  
 
-[Karma](https://karma-runner.github.io/0.13/index.html) é um automatizador de testes que podem executar testes no seu aplicativo dentro de um navegador em tempo real. O tete é preciso, pode ser escrito sob qualquer framework, e apenas executá-los no navegador. Foi originalmente escrito para Angular 1.
+[Karma](https://karma-runner.github.io/0.13/index.html) é um automatizador de testes que podem executar testes no seu aplicativo dentro de um navegador em tempo real. O teste é preciso, pode ser escrito sob qualquer framework, e apenas executá-los no navegador. Foi originalmente escrito para Angular 1.
 
 
 ## Module  
@@ -104,7 +104,7 @@ Módulos em JavaScript são pequenos, independentes, e reutilizáveis, pedaços 
 
 ## Recarregamento Automático (Live Reload)  
 
-Recarregamento Automático é uma ferramenta que recarrega seu navegador automaticamente quando detecta mudanças em seu código. Ele assite um diretório especifico e toda vez que um arquivo ou diretório é atualizado, ele envia um sinal para o navegador recarregar. Em casos de mudanças no CSS, ele vai injetar as mudanças CSS instantaneamente e recarregar a página inteira.
+Recarregamento Automático é uma ferramenta que recarrega seu navegador automaticamente quando detecta mudanças em seu código. Ele observa um diretório especifico e toda vez que um arquivo ou diretório é atualizado, ele envia um sinal para o navegador recarregar. Em casos de mudanças no CSS, ele vai injetar as mudanças CSS instantaneamente e recarregar a página inteira.
 
 
 ## Node  
@@ -151,7 +151,7 @@ SystemJS é um carregador de módulos (assim com o RequireJS) que carrega módul
 
 ## Transpiler  
 
-*Transpile* significa converter o código de uma linguagem para outra linguagem. Tipicamento um *transpiler* convertem códigos de linguagens de alto nível para outra linguagem de alto nível. Muitas vezes a comunidade Ionic vai falar sobre *transpiling* ES2015/ES6 ou TypeScript para ES5.
+*Transpile* significa converter o código de uma linguagem para outra linguagem. Tipicamente um *transpiler* converte códigos de linguagens de alto nível para outra linguagem de alto nível. Muitas vezes a comunidade Ionic vai falar sobre *transpiling* ES2015/ES6 ou TypeScript para ES5.
 
 
 ## TypeScript  
