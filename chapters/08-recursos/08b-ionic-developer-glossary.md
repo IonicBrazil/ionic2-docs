@@ -119,7 +119,7 @@ Recarregamento Automático é uma ferramenta que recarrega seu navegador automat
 
 ## Observável (Observable)  
 
-> An observable is an object that emits events (or notifications). An observer is an object that listens for these events, and does something when an event is received. Together, they create a pattern that can be used for programming asynchronously.
+Um observável é um objeto que emite eventos (ou notificações). Um observador é um objeto que escuta esses eventos e faz alguma coisa quando um novo evento é recebido. Juntos, eles criam um padrão que pode ser utilizado para programar de forma assíncrona.
 
 
 ## Polyfill  
