@@ -5,7 +5,7 @@
 3.4 > [AppVersion](3d-appVersion.md)  
 3.5 > Badge  
 3.6 > BarCodeScanner  
-3.7 > Base64ToGallery  
+3.7 > [Base64ToGallery](3g-base64togallery.md)  
 3.8 > BatteryStatus  
 3.9 > BLE  
 3.10 > Calendar  
