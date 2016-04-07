@@ -40,14 +40,14 @@ subscription.unsubscribe();
 Métodos estáticos  
 -----
 
-```onChange()```  
+``` onChange() ```  
 Ver diferença no nível da bateria  
-**Retorno**: ```Observable``` Retorna um observável que empurra o estado de um objeto
+**Retorno** : ```Observable``` Retorna um observável que empurra o estado de um objeto
 
-```onLow()```  
+``` onLow() ```  
 Ver o nível da bateria quando estiver baixo  
-**Retorno**: ```Observable<StatusObject>``` Retorna um observável que empurra o estado de um objeto
+**Retorno** : ```Observable<StatusObject>``` Retorna um observável que empurra o estado de um objeto
 
-```onCritical()```  
+``` onCritical() ```  
 Ver o nível da bateria quando estiver crítico  
-**Retorno**: ```Observable<StatusObject>``` Retorna um observável que empurra o estado de um objeto
+**Retorno** : ```Observable<StatusObject>``` Retorna um observável que empurra o estado de um objeto
