@@ -4,7 +4,7 @@ Battery Status
 ```$ cordova plugin add cordova-plugin-batterystatus```  
 Repositório: [https://github.com/apache/cordova-plugin-battery-status](https://github.com/apache/cordova-plugin-battery-status)
 
-Requer o plugin cordova: cordova-plugin-batterystatus. Para mais informações, por favor veja a documentação do plugin BatteryStatus.
+Requer o plugin cordova: cordova-plugin-batterystatus. Para mais informações, por favor veja a [documentação do plugin BatteryStatus.](https://github.com/apache/cordova-plugin-battery-status)
 
 Plataformas suportadas
 -----
