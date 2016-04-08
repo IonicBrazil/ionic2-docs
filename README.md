@@ -45,7 +45,7 @@
 3.5 Badge  
 3.6 BarCodeScanner  
 3.7 [Base64ToGallery](chapters/03-nativo/3g-base64togallery.md)  
-3.8 [BatteryStatus](chapters/03-nativo/3h-batteryStatus.md)
+3.8 [BatteryStatus](chapters/03-nativo/3h-batteryStatus.md)  
 3.9 BLE  
 3.10 Calendar  
 3.11 Camera  
