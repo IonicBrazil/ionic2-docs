@@ -27,7 +27,8 @@ Em relação aos `pull requests`, pedimos que sejam enviados da forma mais simpl
 
 Ao criar um novo PR, seguir os padrões abaixo:  
 
-**1. Nome do PR:** [Para Revisão] - Capítulo x - Nome do Capítulo - Nome do Subcapítulo  
+**1. Nome do PR:** Para um novo PR com sua tradução pronta para revisão, utilizar os termos a seguir como padrão para o nome do PR > **[Para Revisão] - Capítulo x - Nome do Capítulo - Nome do Subcapítulo**  
+**1.1 Nome do PR:** Caso seja solicitado correções em sua tradução, por favor, feche o PR atual, efetue as devidas correções, e, ao encerrá-las, crie um novo PR com os termos a seguir como padrão para o nome do PR > **[Correções] - Capítulo x - Nome do Capítulo - Nome do Subcapítulo**  
 **2. Conversation:** Mencionar o @juarezpaf no PR  
 **2.1 Conversation:** Caso você tenha encontrado alguma dificuldade em algum termo, citá-lo. Exemplo: *o termo build não me senti totalmente à vontade em traduzir para compilar. O que vocês acham, mantenho como build em inglês ou deixo compilar?*  
 
