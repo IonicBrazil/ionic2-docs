@@ -27,8 +27,8 @@ Em relação aos `pull requests`, pedimos que sejam enviados da forma mais simpl
 
 Ao criar um novo PR, seguir os padrões abaixo:  
 
-**1. Nome do PR:** [Para Revisão] - Capítulo x - Nome do Capítulo - Nome do Subcapítulo
-**2. Conversation:** Mencionar o @juarezpaf no PR
+**1. Nome do PR:** [Para Revisão] - Capítulo x - Nome do Capítulo - Nome do Subcapítulo  
+**2. Conversation:** Mencionar o @juarezpaf no PR  
 **2.1 Conversation:** Caso você tenha encontrado alguma dificuldade em algum termo, citá-lo. Exemplo: *o termo build não me senti totalmente à vontade em traduzir para compilar. O que vocês acham, mantenho como build em inglês ou deixo compilar?*  
 
 Não esqueçam de linkar no [README](https://github.com/IonicBrazil/ionic2-docs/blob/master/README.md) principal e também no README de cada capítulo, os arquivos dos tópicos que você enviar.  
