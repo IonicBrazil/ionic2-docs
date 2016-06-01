@@ -61,7 +61,7 @@
 3.21 Facebook  
 3.22 File  
 3.23 Flashlight  
-3.24 Geolocation  
+3.24 [Geolocation](chapters/03-nativo/3w-geolocation.md)  
 3.25 Globalization  
 3.26 Hotspot  
 3.27 ImagePicker  
