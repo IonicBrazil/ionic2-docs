@@ -1,6 +1,6 @@
 # Card
 
-Os cards são uma ótima maneira de exibir as partes importantes de conteúdo e são rapidamente emergindo como um padrão de design para aplicativos. Eles são uma ótima maneira para conter e organizar a informação e ao mesmo tempo para criação de expectativas previsíveis ao usuário. Com tanto conteúdo a ser exibido de uma só vez e muitas vezes tão pouca tela, os cards tornaram-se rapidamente o padrão de design de escolha para muitas empresas, incluindo empresas como Google, Twitter, e Spotify.
+Os cards são uma ótima maneira de exibir as partes importantes de conteúdo e estão emergindo rapidamente como um padrão de design para aplicativos. Eles são uma ótima maneira para conter e organizar a informação e ao mesmo tempo para criação de expectativas previsíveis ao usuário. Com tanto conteúdo a ser exibido de uma só vez e muitas vezes tão pouca tela, os cards tornaram-se rapidamente o padrão de design de escolha para muitas empresas, incluindo empresas como Google, Twitter, e Spotify.
 
 Para experiências móveis os cards tornam fácil a exibição da mesma informação visual em diferentes tamanhos de tela. Eles permitem mais controle, são flexíveis e podem até mesmo serem animados. Os cards são geralmente colocados em cima um do outro, mas podem também ser usadas como uma "página" e deslizável entre esquerda e direita.
 
