@@ -4,5 +4,4 @@
 8.3 Ionicons  
 8.4 [Editores e IDEs](08d-editors-and-ides.md)  
 8.5 [Usando NPM](08e-using-npm.md)  
-8.6 Instalação em OSX
 8.7 [Instalação em Windows](08g-windows-setup.md)
