@@ -32,7 +32,7 @@ Os cartões são primeiramente um componente CSS. Para usar adicionar um cartão
 ```
 
 ## Card Headers
-Assim como uma página normal, os cards podem ser personalizados para incluir cabeçalhos. Para adicionar o use um card header, adicionando o <ion-card-header> componente dentro do seu card:
+Assim como uma página normal, os cards podem ser personalizados para incluir cabeçalhos. Para adicionar o use um card header, adicionando o componente <ion-card-header> dentro do seu card:
 
 ``` ts
 <ion-card>
@@ -92,7 +92,7 @@ Um card pode conter uma lista de itens. Para criar uma card-lists, adicione elem
 
 ## Card Images
 
-Imagens muitas vezes variam em tamanho, por isso é importante que eles adotar um estilo consistente em todo o aplicativo. As imagens podem ser facilmente adicionadas aos cards. Adicionar uma imagem a um card vai dar a imagem uma largura constante, e uma altura variável. Listas, cabeçalhos e outros componentes do cartão pode ser facilmente combinado com os cartões de imagem. Para adicionar uma imagem a um cartão, use a seguinte marcação:
+Imagens muitas vezes variam em tamanho, por isso é importante que elas adotem um estilo consistente em todo o aplicativo. As imagens podem ser facilmente adicionadas aos cards. Adicionar uma imagem a um card vai dar a imagem uma largura constante, e uma altura variável. Listas, cabeçalhos e outros componentes do cartão pode ser facilmente combinado com os cartões de imagem. Para adicionar uma imagem a um cartão, use a seguinte marcação:
 
 ``` ts
 <ion-card>
