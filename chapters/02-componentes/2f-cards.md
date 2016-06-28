@@ -15,7 +15,7 @@ Para experiências móveis, os cards tornam fácil a exibição da mesma informa
 
 Uso Básico:
 
-Os cartões são primeiramente um componente CSS. Para usar adicionar um cartão básico, seguem esta estrutura:
+Os cartões são primeiramente um componente CSS. Para usar adicionar um cartão básico, siga esta estrutura:
 
 ``` ts
 <ion-card>
