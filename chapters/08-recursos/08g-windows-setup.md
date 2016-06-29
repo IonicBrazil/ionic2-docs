@@ -51,7 +51,7 @@ android
 
 Agora poderemos criar e construir um projeto Android a partir da linha de comando.
 
-## Applicativos Windows Universal
+## Aplicativos Windows Universal
 
 Para criar aplicativos compatíveis com o Windows Universal, baixe e instale o Visual Studio 2015 Community Edition. Durante a instalação, selecione opção "Tools for Cross Platform Development" juntamente com os SDK's para Windows Universal Apps.
 
@@ -59,6 +59,6 @@ Com tudo isso instalado, você será capaz de adicionar uma plataforma windows a
 
 `ionic platform add windows`
 
-Por padrão, o comando `build` produz dois pacotes: Windows 8.1 e Windows Phone 8.1, o qual o Ionic não suporte. Para atualizar um pacote Windows para a versão 10, a seguinte linha de configuração deve ser adicionada no arquivo `config.xml`:
+Por padrão, o comando `build` produz dois pacotes: Windows 8.1 e Windows Phone 8.1, o qual o Ionic não suporta. Para atualizar um pacote Windows para a versão 10, a seguinte linha de configuração deve ser adicionada no arquivo `config.xml`:
 
 `<preference name="windows-target-version" value="10.0">`
