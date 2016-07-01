@@ -110,7 +110,7 @@
 8.3 Ionicons  
 8.4 [Editores e IDEs](chapters/08-recursos/08d-editors-and-ides.md)   
 8.5 [Usando NPM](chapters/08-recursos/08e-using-npm.md)  
-8.6 Instalação em OSX
+8.6 [Instalação em OSX](chapters/08-recursos/08f-mac-setup.md)<br/>
 8.7 [Instalação em Windows](chapters/08-recursos/08g-windows-setup.md)
 
 - *linkar em cada capítulo o caminho correto para o arquivo.md*
