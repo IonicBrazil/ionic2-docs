@@ -38,7 +38,6 @@
 2.22 Toolbar
 
 ####3. Nativo
-3 Nativo  
 3.1 > [ActionSheet](3a-actionSheet.md)  
 3.2 > [AppAvailability](3b-appAvailability.md)  
 3.3 > [AppRate](3c-appRate.md)  
